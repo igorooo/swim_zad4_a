@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">swim_zad4_a</string>
+    <string name="lightStatus">Sensor natężenia światła: </string>
+    <string name="accelStatus">Sensor przyśpieszenia: </string>
+    <string name="gpsStatus">GPS: </string>
+    <string name="txt_avail">DOSTĘPNY</string>
+    <string name="txt_unavail">NIEDOSTĘPNY</string>
+</resources>
